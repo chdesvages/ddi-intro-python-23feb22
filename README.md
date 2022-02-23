@@ -1,6 +1,6 @@
 # Introduction to Python
 
-[SESSION TITLE]
+DDI session - 23rd February 2022
 
 Click the "launch binder" button below to launch the interactive notebook.
 
